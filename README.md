@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=094EFF&multiline=true&width=435&height=60&lines=Hi%2C+My+name+is+Hassam+Hamid;I'm+Data+Analyst+and+Data+Scientist+.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=094EFF&multiline=true&width=435&height=60&lines=Hi%2C+I'm+Hassam+Hamid;a+Data+Analyst+and+Data+Scientist+.+)](https://git.io/typing-svg)
 
 <img width="40%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" align="right" />
 
