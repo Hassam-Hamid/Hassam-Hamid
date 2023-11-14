@@ -12,7 +12,9 @@ Currently I'm doing Masters in Data Science.
 ### Languages and Tools:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,python,microsoft-excel,powerbi,html,css,bootstrap,bash,powershell,github,vscode&perline=8"/>
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,python,html,css,bootstrap,bash,powershell,github,vscode&perline=8"/>
+<img src="https://www.logolynx.com/images/logolynx/e5/e50d4b174c6108a7b1b5271bd58b4e45.png" alt="Microsoft Excel" style="width: 50px; height: 50px;"/>
+
 </p>
 
 ### Connect me on:
