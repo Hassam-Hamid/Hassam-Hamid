@@ -13,7 +13,7 @@ Currently I'm doing Masters in Data Science.
 
 <p align="left">
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,python,html,css,bootstrap,bash,powershell,github,vscode&perline=8"/>
-<img src="https://www.logolynx.com/images/logolynx/e5/e50d4b174c6108a7b1b5271bd58b4e45.png" alt="Microsoft Excel" style="width: 50px; height: 50px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Microsoft_Excel_2013_logo.svg/1200px-Microsoft_Excel_2013_logo.svg.png" alt="Microsoft Excel" style="width: 50px; height: 50px;"/>
 
 </p>
 
